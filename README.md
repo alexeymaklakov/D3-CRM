@@ -1,7 +1,7 @@
 # D3ledger CRM Guide
 
 ### Purpose of this doc
-To help D3ledger team to work with [Hubpsot CRM](https://app.hubspot.com/contacts/5107533/companies/list/view/all/?) in an unified way via simple guidlines. 
+To help D3ledger team to work with [Hubpsot CRM](https://app.hubspot.com/contacts/5107533/companies/list/view/all/?) in a unified way via simple guidelines. 
 
 ### Work primarily with companies
 We are interested in companies mostly. Companies came in via people so at first, we may add a person. However, afterward, we should add her/his company. We measure our progress by companies signed/lost, not by people contacted. 
