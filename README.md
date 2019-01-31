@@ -30,7 +30,7 @@ After a company is in the system, you should fill in several main fields:
 
   Please, always change Lead Status after you've made positive or negative progress with the company.
 
-* **Role in D3**. 
+* **Role in D3 (max 2)** 
 
   Self-explanatory: what type of a partner or client this company may be? **Do not add more than 2 roles to a lead.** If you    want to add more than 2, this means we haven’t qualified this lead good enough. It’s an essential field because we measure our success by how many companies of different types we have added in a given week, month, or quarter. 
 
